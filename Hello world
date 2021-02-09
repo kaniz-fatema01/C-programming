@@ -2,7 +2,7 @@
 
 int main(){
 
-printf("hello_first class");
+printf("hello world");
 
 return 0;
 } 
